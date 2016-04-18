@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoi\andEngine\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc550ec3143f61d7af9b39a09421ebfa9699a5b0">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\TowerOfHanoi-andEngine-unspecified_5c490c32f319936d5329cedebe28d551606cb8c0.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoi\andEngine\unspecified\jars\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af443cda2f1690532754764ab77f67463cd10ba9">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\httpcore-4.3.2_e9538a23f9c8e8efcd5f7a6a1c7e22221a75ead4.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_aed6050386ef13625ebf1168732c9eaca3218382.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\exploded-aar\TowerOfHanoi\andEngine\unspecified\jars\libs\httpclient-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4cb8794babe79ef68fa8337bbd0098d6bb2a9e62">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\httpclient-4.3.5_2cfe4db0405630d7e5faf02c60ee013cb904f9d5.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        jar="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Android\AndroidStudioProjects\TowerOfHanoi\towerOfHanoi\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_1fc69231125c9155447421205766ef81be2d5758.jar" />
+    </item>
+
+</items>
